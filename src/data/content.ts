@@ -11,29 +11,30 @@ export const PROFILE = {
   name: '梁霆珊',
   tagline: '内容运营 × AI自动化',
   enTagline: 'CONTENT STRATEGY × AI AUTOMATION',
-  bio: '3年品牌新媒体与内容增长经验，长期关注内容策略与AI在内容运营中的实际应用。具备AI Skills及工作流设计实践，持续探索用AI优化资讯处理、内容生产与运营效率。',
+  bio: '3年品牌新媒体与内容增长经验，具备AI Skills及工作流设计实践，持续探索用AI优化资讯处理、内容生产与运营效率。',
   keywords: ['CONTENT STRATEGY', 'CONTENT GROWTH', 'AI WORKFLOW', 'CONTENT AUTOMATION'],
   avatar: '/images/avatar.jpg',
 };
 
 // ===== 联系方式 =====
 export const CONTACT = {
-  wechat: '[PLACEHOLDER_WECHAT]',
-  email: '[PLACEHOLDER_EMAIL]',
+  wechat: '_ttnnn',
+  email: '1044677068@qq.com',
+  phone: "18675761431",
 };
 
 // ===== 外部链接 =====
 export const LINKS = {
   // 公众号文章链接（通过文章进入可查看公众号）
-  wechatArticle: '[PLACEHOLDER_WECHAT_ARTICLE]',
+  wechatArticle: 'https://weixin.qq.com/sph/AhLRilW3BI',
   // 视频号作品链接
   videoLink: '[PLACEHOLDER_VIDEO_LINK]',
   // 抖音账号链接
-  douyinLink: '[PLACEHOLDER_DOUYIN_LINK]',
+  douyinLink: 'https://v.douyin.com/06KvQZd8pSw/ 1@7.com :1pm',
   // 内容库链接（后续替换为实际内容库网页）
-  contentDatabase: '[PLACEHOLDER_CONTENT_DATABASE]',
+  contentDatabase: 'https://ttn.app.n8n.cloud/projects/Sxv1ObIRXV9ISyuA/datatables/f8sBsCCbmNOEZUa3',
   // n8n实时工作流链接（后续替换为可查看实时n8n调用的网页）
-  n8nLive: '[PLACEHOLDER_N8N_LIVE]',
+  n8nLive: 'https://ttn.app.n8n.cloud/workflow/bJj8a2ePwpx1d3iZ',
 };
 
 // ===== 图片路径 =====
@@ -121,7 +122,7 @@ export const CASES: CaseCard[] = [
 // ===== AI自动化项目 =====
 export const PROJECT = {
   title: 'AI跨境电商资讯采集与内容生成系统',
-  subtitle: '基于 n8n + AI 的多源资讯采集、智能筛选与内容生成工作流',
+  subtitle: '基于 n8n + Coze 的多源资讯采集、智能筛选与内容生成工作流',
   background: '过去进行跨境电商内容策划时，需要人工浏览海外行业网站及资讯源，再完成资讯搜集、筛选、整理和选题判断。因此希望将其中重复性较高的前期内容处理流程自动化。',
   goalIntro: '将以下流程转化为可自动执行的AI工作流：',
   goalSteps: ['资讯搜集', '信息整理', '内容判断', '选题筛选', '内容生成'],
